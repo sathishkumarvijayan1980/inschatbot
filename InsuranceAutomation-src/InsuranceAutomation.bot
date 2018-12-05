@@ -1,0 +1,50 @@
+{
+  "name": "InsuranceAutomation",
+  "padlock": "VK8bRG/bcPi15PVEleQbhA==!weLLbyDTx27R4d3HGfW4By/npyOLfzyFAIi1211ZFPu/Eznmb5wExft7l9uvNcp3",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "9b4e1fdc-5254-49e4-9d64-7dbcc1e0fd28",
+      "subscriptionId": "cccaaf13-c9f1-445e-9960-db0bbe9a92f0",
+      "resourceGroup": "InsuranceCB_ResGrp",
+      "serviceName": "InsuranceAutomation",
+      "type": "abs",
+      "name": "InsuranceAutomation",
+      "id": "1"
+    },
+    {
+      "connectionString": "nbmwPzvUiXPuC5q9dMQYDg==!S8YtPvInnulj6omHtEEYb2OmdFdeqHejXAbhk4IuOBfdtAKgNIkixeNgPoVVFAEvUxpV1vMNKIBCHAjcCj3ISt1Hrc94uhngZ4cKcwF1duHQHc8V0q6qD/AfVckqkD7ue1TnRk13VdySe5imlgl2eU+BGty4FTEC9xzFd26gilZmFEZuTG98NpgCzsUV2LvVI8rpeg33hLFg+ucOQI2d7csP2buCR7MJcB5iClaTQvY=",
+      "tenantId": "9b4e1fdc-5254-49e4-9d64-7dbcc1e0fd28",
+      "subscriptionId": "cccaaf13-c9f1-445e-9960-db0bbe9a92f0",
+      "resourceGroup": "InsuranceCB_ResGrp",
+      "serviceName": "insuranceautomationbe17",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "efadeffb-0d89-417f-b04d-a8abd26c5cd4",
+      "appPassword": "HBZmrbm7hzXnxbjxPiELCg==!sT/Diio5GMuNvg4O0LMuc1TC17DAPEHPWaBV9GWFt1Y=",
+      "endpoint": "https://insuranceautomation.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "appId": "9f2aa212-85aa-4406-a449-830b5b966f47",
+      "authoringKey": "FLVm3/Lvl7Wwexv1OLH+bw==!5lVqojO9i9lVqvofngl9MholknZyvjgn8qVG0JlnMU57dQyZROBoWqYnilNImYZ1",
+      "version": "0.1",
+      "region": "westus",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "5"
+    }
+  ]
+}
